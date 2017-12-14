@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">The Name Game</string>
+    <string name="main_url">"https://willowtreeapps.com/"</string>
+
+    <string name="initialize_name"></string>
+
+    <string name="person_info">PersonInfo</string>
+
+    <string name="no_internet_connection_title">No Internet Connection</string>
+    <string name="no_internet_connection_message">It looks like your internet connection is off. \n Please turn it on and try again</string>
+    <string name="error_message_title">Error</string>
+
+    <string name="total_attempts">totalAttempts</string>
+    <string name="correct_attempts">correctAttempts</string>
+    <string name="updated_time">updatedTime</string>
+    <string name="person_answer">personAnswer</string>
+    <string name="people">people</string>
+    <string name="time_swap_buff">timeSwapBuff</string>
+    <string name="start_time">startTime</string>
+    <string name="average_time">averageTime</string>
+    <string name="total_time">totalTime</string>
+
+    <string name="image_test">featured-image-TEST1.png</string>
+    <string name="unknown_person">Unknown Person</string>
+
+    <string name="transition_profile_image">profile_image</string>
+
+    <string name="average">Average:</string>
+</resources>
